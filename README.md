@@ -3,7 +3,7 @@
 Engenheira Eletricista | Estudante de Desenvolvimento Web :v:
 
 ## :iphone: Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hiédi-dos-santos-ferreira-lang-56875a1ab/)
+<a href="https://www.linkedin.com/in/hiedi-ferreirai" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## :pencil: Habilidades:
 * ### Front-end
